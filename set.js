@@ -10,7 +10,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 module.exports = { session: process.env.SESSION_ID || 'zokk',
      ETAT:process.env.ETAT,
     PREFIXE: process.env.PREFIXE,
-    NOM_OWNER: process.env.NOM_OWNER || "Zokou-Md",
+    NOM_OWNER: process.env.NOM_OWNER || "THE CURLYHAIR GUY❤️🏳️‍🌈",
     NUMERO_OWNER : process.env.NUMERO_OWNER,              
     LECTURE_AUTO_STATUS: process.env.LECTURE_AUTO_STATUS || "non",
      APILOLHUMAIN: process.env.APILOLHUMAIN,
